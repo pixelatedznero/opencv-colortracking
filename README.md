@@ -19,3 +19,7 @@ A beginners try on colortracking in OpenCV. Neither optemised or well coded, but
 
 > 05-morphology.py
 - Added morphology for smoother detection
+
+## More OpenCV
+
+Click [here](https://github.com/pixelatedznero?tab=repositories&q=opencv) for more OpenCV stuff I made and you might want to check out.
